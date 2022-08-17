@@ -2,9 +2,9 @@
 ![badge](https://img.shields.io/badge/TIME%20TAKEN-5--6hrs-red)
 [![badge](https://img.shields.io/badge/SEE%20DEMO%20-VISIT-green)](https://project14-08822.netlify.app/)
 
-# Project-14: Dance Home Landing Page
+# Dance Home Landing Page
 
-- This project is a Dance Home landing page.This website is designed using pure HTML and CSS.
+- This project is a Dance Home landing page.This website is designed using pure HTML and CSS. Also I made it responsive.
 
 - It took me 5-6hrs to make this project.Please find link of the project below:
 
@@ -12,15 +12,30 @@
 
 ---
 
+## Breakpoints
+
+- I have taken two breakpoints.
+
+  - At **900px**.
+  - At **500px**
+
+---
+
 ## Screenshot
 
+- Desktop view
+
 ![App Screenshot](./images/project-14ss.png)
+
+- Mobile View
+
+![Mobile view](./images/project14-mobilevs.png)
 
 ---
 
 ## 🛠 Skills learned
 
-HTML, CSS
+HTML, CSS, Responsive site
 
 ---
 
